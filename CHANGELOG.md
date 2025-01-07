@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.28.4](https://github.com/viarotel-org/escrcpy/compare/v1.28.3...v1.28.4) (2025-01-07)
+
+
+### Bug Fixes
+
+* 🐛 Solve the problem of IPV6 address connection failure ([1a95325](https://github.com/viarotel-org/escrcpy/commit/1a95325884845441987113fbb17c58289a816346))
+
+
+### Performance Improvements
+
+* ♻️ Improve wireless connection stability ([85be898](https://github.com/viarotel-org/escrcpy/commit/85be8980d441c0046ae0854a6fdc88998be7b24c))
+* 🐛 Improve wireless connection verification method ([69fecc3](https://github.com/viarotel-org/escrcpy/commit/69fecc3bc59f8f4a968368e48f1f06174255e62c))
+
 ## [1.28.3](https://github.com/viarotel-org/escrcpy/compare/v1.28.2...v1.28.3) (2024-12-28)
 
 
